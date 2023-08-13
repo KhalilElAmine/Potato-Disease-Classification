@@ -11,7 +11,7 @@ This project aims to classify the health status of potato leaves into three cate
 - [Local Website](#local-website)
 - [Model Deployment](#model-deployment)
 - [Usage](#usage)
-)
+
 
 ## Introduction
 Potato cultivation is susceptible to various diseases that can significantly affect crop yield. The ability to accurately classify these diseases using machine learning can help farmers take timely actions to mitigate crop damage. This project utilizes a trained model to classify potato leaves into different disease categories.
