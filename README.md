@@ -1,6 +1,6 @@
 # Potato Disease Classification Project
 
-![Potato Disease Classification](project_image.jpg)
+![Potato Disease Classification](frontend.png)
 
 This project aims to classify the health status of potato leaves into three categories: healthy, late blight, and early blight. It involves training a machine learning model, creating a local website for interaction, and deploying the model to perform real-time predictions on uploaded images.
 
