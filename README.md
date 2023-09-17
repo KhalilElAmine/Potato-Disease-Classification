@@ -20,7 +20,7 @@ Potato cultivation is susceptible to various diseases that can significantly aff
 The model was trained on the dataset PlantVillage containing labeled images of potato leaves with three classes: healthy, late blight, and early blight. The dataset was preprocessed and split into training and validation sets to train the model effectively.
 
 ## Model Training
-The machine learning model was developed using Python and popular deep learning libraries such as TensorFlow and Keras. The model was trained on the dataset to achieve high accuracy in classifying potato leaf diseases.
+The machine learning model was developed using Python and popular deep learning libraries such as TensorFlow and Keras. The model was trained on the dataset to achieve high accuracy of 97% in classifying potato leaf diseases.
 
 ## Local Website
 To interact with the trained model, a local website was created using Node.js, HTML, CSS, and JavaScript. Follow these steps to set up the website:
